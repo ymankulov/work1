@@ -1,0 +1,7 @@
+.img {
+    border-radius: 20px;
+    width: 30%;
+    box-shadow: inset 2px 2px 5px rgb(231, 103, 103), 1px 1px 5px rgb(245, 0, 0);}
+.title {
+    color: white;
+}
